@@ -1,0 +1,13 @@
+{
+  "name": "youtube lihtsustus",
+  "version": "1.0",
+  "description": "tutvu youtube-ga",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "src.html"
+  },
+  "icons": {
+    "007": "images/yt.png"
+  },
+  "manifest_version": 2
+}
